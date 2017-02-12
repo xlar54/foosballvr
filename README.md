@@ -8,4 +8,4 @@ To grab and rotate the offensive line, hold the index trigger of both controller
 
 To grab and rotate the defensive line, hold and hand trigger of both controllers.
 
-![Alt text](http://imgur.com/a/07TBV "Screenshot")
+![Alt text](http://i.imgur.com/BYZmNPd.png "Screenshot")
